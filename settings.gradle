@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='tm01_SistemaVotacionesSMS'
